@@ -1,6 +1,6 @@
 name: example_theme
 type: theme
-description: My Awesome Module
+description: my first try
 package: Other
 core: 8.x
 libraries:
